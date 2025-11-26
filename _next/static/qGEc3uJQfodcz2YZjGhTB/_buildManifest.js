@@ -3,8 +3,8 @@ self.__BUILD_MANIFEST = {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/page_replacement//_next/:path+",
-        "destination": "/page_replacement/_next/:path+"
+        "source": "/Page-Replacement-Algorithm-Simulator//_next/:path+",
+        "destination": "/Page-Replacement-Algorithm-Simulator/_next/:path+"
       }
     ],
     "fallback": []
